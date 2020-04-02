@@ -10,9 +10,9 @@ various reasons not possible, so then we will use this repository.
 [municipalities_sk.json](municipalities_sk.json) contains population per
 municipality in Slovakia, along with postal code (PSČ) of the municipality.
 
-Source: user of Slovensko.Digital Slack
+Source: Stano Bocinec / Slovensko.Digital Slack
 
-License: unknown (free for re-use was implied)
+License: CC0
 
 Note: This serves as workaround for this: https://github.com/OpenDataSk/data-requests/issues/10
 
@@ -22,8 +22,8 @@ Note: This serves as workaround for this: https://github.com/OpenDataSk/data-req
 coordinates for postal code (PSČ) of Slovak municipalities. Postal codes
 match what is used in `municipalities_sk.json`.
 
-Source: user of Slovensko.Digital Slack
+Source: Stano Bocinec / Slovensko.Digital Slack
 
-License: unknown (free for re-use was implied)
+License: CC0
 
 Note: This serves as workaround for this: https://github.com/OpenDataSk/data-requests/issues/11
